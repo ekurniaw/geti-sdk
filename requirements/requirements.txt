@@ -11,7 +11,7 @@ pathvalidate>=2.5.0
 simplejson==3.19.*
 ipython==8.12.*
 otx==1.2.*
-openvino==2022.3.0
+openvino==2022.3.*
 openmodelzoo-modelapi==2022.3.*
 certifi>=2022.12.7
 joblib>=1.1.1

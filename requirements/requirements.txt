@@ -18,3 +18,9 @@ joblib>=1.1.1
 protobuf>=3.20.2
 ovmsclient>=2022.3
 orjson==3.8.8
+
+# Requirements for running the Jupyter notebooks
+jupyterlab>=3.5.3
+jupyter-core>=4.11.2
+ipywidgets>=8.0.0
+mistune>=2.0.3
